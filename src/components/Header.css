@@ -1,0 +1,22 @@
+@media only screen and (min-width: 700px) {
+  #firstpartoftitle {
+    font-size: 100px;
+  }
+  #secondpartoftitle {
+    font-size: 60px;
+    float: right;
+    padding-top: 30px;
+    margin: 0px;
+  }
+}
+@media only screen and (min-width: 700px) {
+  #firstpartoftitle {
+    font-size: 50px;
+  }
+  #secondpartoftitle {
+    font-size: 60px;
+    float: right;
+    padding-top: 30px;
+    margin: 0px;
+  }
+}
